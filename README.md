@@ -1,2 +1,2 @@
 # labcmc.github.io
-汤老师课题组主页
+Seminar实验小组主页
